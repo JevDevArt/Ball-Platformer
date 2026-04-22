@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 6175ee18b0ccc254da8a15cd4a27963f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5337609659202457558
+    second: green hill bc_0
+  - first:
+      213: -5279134503279120013
+    second: green hill bc_1
+  - first:
+      213: -8460440229237283300
+    second: green hill bc_2
+  - first:
+      213: 5581136243423973278
+    second: green hill bc_3
+  - first:
+      213: 1509590324537173632
+    second: green hill bc_4
+  - first:
+      213: 3543304074128936074
+    second: green hill bc_5
+  - first:
+      213: -8089219073054079601
+    second: green hill bc_6
+  - first:
+      213: -8443147490740467910
+    second: green hill bc_7
+  - first:
+      213: 7694223953216384824
+    second: green hill bc_8
+  - first:
+      213: 8363418105523272070
+    second: green hill bc_9
+  - first:
+      213: -5398900988342932738
+    second: green hill bc_10
+  - first:
+      213: 4702614646425198293
+    second: green hill bc_11
+  - first:
+      213: -5707208404962070993
+    second: green hill bc_12
+  - first:
+      213: -7439037613430714758
+    second: green hill bc_13
+  - first:
+      213: -3514288820333983125
+    second: green hill bc_14
+  - first:
+      213: 153765355791453421
+    second: green hill bc_15
+  - first:
+      213: 8012524716532507358
+    second: green hill bc_16
+  - first:
+      213: 7556195229152559677
+    second: green hill bc_17
+  - first:
+      213: 8749703246299726846
+    second: green hill bc_18
+  - first:
+      213: -8456774968935745533
+    second: green hill bc_19
+  - first:
+      213: 4099117252350008242
+    second: green hill bc_20
+  - first:
+      213: -3724759174799942963
+    second: green hill bc_21
+  - first:
+      213: -1777933461246913058
+    second: green hill bc_22
+  - first:
+      213: 5446580574895406441
+    second: green hill bc_23
+  - first:
+      213: -8213935365825388436
+    second: green hill bc_24
+  - first:
+      213: -4783833799634222590
+    second: green hill bc_25
+  - first:
+      213: -3944372062388418256
+    second: green hill bc_26
+  - first:
+      213: 8899895007891412336
+    second: green hill bc_27
+  - first:
+      213: -197700976403575755
+    second: green hill bc_28
+  - first:
+      213: -5900851699609965757
+    second: green hill bc_29
+  - first:
+      213: -8621264479394800610
+    second: green hill bc_30
+  - first:
+      213: -932273159549800740
+    second: green hill bc_31
+  - first:
+      213: -1982383548426625556
+    second: green hill bc_32
+  - first:
+      213: 1930756120997158738
+    second: green hill bc_33
+  - first:
+      213: -2698565585178301475
+    second: green hill bc_34
+  - first:
+      213: -1491014969396389527
+    second: green hill bc_35
+  - first:
+      213: -4714105762488601060
+    second: green hill bc_36
+  - first:
+      213: -5377056281059374559
+    second: green hill bc_37
+  - first:
+      213: -6260002984004251092
+    second: green hill bc_38
+  - first:
+      213: -5865735540313695170
+    second: green hill bc_39
+  - first:
+      213: -923716883158588974
+    second: green hill bc_40
+  - first:
+      213: 196070200165242341
+    second: green hill bc_41
+  - first:
+      213: 4444604737077049504
+    second: green hill bc_42
+  - first:
+      213: -3903239577741854182
+    second: green hill bc_43
+  - first:
+      213: -5376362935290485487
+    second: green hill bc_44
+  - first:
+      213: -6550655748193517972
+    second: green hill bc_45
+  - first:
+      213: 6091663279602387606
+    second: green hill bc_46
+  - first:
+      213: -3908659824640522791
+    second: green hill bc_47
+  - first:
+      213: -4655461999797831845
+    second: green hill bc_48
+  - first:
+      213: -2462450657142308102
+    second: green hill bc_49
+  - first:
+      213: -1184420703188637134
+    second: green hill bc_50
+  - first:
+      213: 3553497541003551176
+    second: green hill bc_51
+  - first:
+      213: -7834330683448977611
+    second: green hill bc_52
+  - first:
+      213: -6536396127517760897
+    second: green hill bc_53
+  - first:
+      213: -3323695246356778944
+    second: green hill bc_54
+  - first:
+      213: 6837335883865434090
+    second: green hill bc_55
+  - first:
+      213: 7387318759834916624
+    second: green hill bc_56
+  - first:
+      213: -5755239163213844677
+    second: green hill bc_57
+  - first:
+      213: -1181466433457230505
+    second: green hill bc_58
+  - first:
+      213: -477131424330414079
+    second: green hill bc_59
+  - first:
+      213: 2957851748894077743
+    second: green hill bc_60
+  - first:
+      213: 2122210531920346861
+    second: green hill bc_61
+  - first:
+      213: -4916805493572453178
+    second: green hill bc_62
+  - first:
+      213: -1706878385864221503
+    second: green hill bc_63
+  - first:
+      213: 2450110427719813772
+    second: green hill bc_64
+  - first:
+      213: -5533357696598610232
+    second: green hill bc_65
+  - first:
+      213: -3368326674747163626
+    second: green hill bc_66
+  - first:
+      213: -6233510864046343308
+    second: green hill bc_67
+  - first:
+      213: -1438419757223950681
+    second: green hill bc_68
+  - first:
+      213: -5064010187166371482
+    second: green hill bc_69
+  - first:
+      213: 4718306115538345229
+    second: green hill bc_70
+  - first:
+      213: 8268632675418470705
+    second: green hill bc_71
+  - first:
+      213: 6946664596482801310
+    second: green hill bc_72
+  - first:
+      213: -4530796305905343590
+    second: green hill bc_73
+  - first:
+      213: -2039800796575690225
+    second: green hill bc_74
+  - first:
+      213: -462337856563978462
+    second: green hill bc_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green hill bc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 1032
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc47684bff21a40800000000000000
+      internalID: 5337609659202457558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 711
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3713a8aa32fbcb6b0800000000000000
+      internalID: -5279134503279120013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 711
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1623e4df6a769a80800000000000000
+      internalID: -8460440229237283300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 711
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f0850e7dd247d40800000000000000
+      internalID: 5581136243423973278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 629
+        width: 162
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086a76ae66423f410800000000000000
+      internalID: 1509590324537173632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 720
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c46ad38485c2130800000000000000
+      internalID: 3543304074128936074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 720
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f850c409c125dbf80800000000000000
+      internalID: -8089219073054079601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 629
+        width: 162
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a370f24471ae3da80800000000000000
+      internalID: -8443147490740467910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 465
+        width: 250
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa3c17bef57ca60800000000000000
+      internalID: 7694223953216384824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 629
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689f8c7a474d01470800000000000000
+      internalID: 8363418105523272070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 595
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa605cd7204315b0800000000000000
+      internalID: -5398900988342932738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 629
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de19bbfa1b034140800000000000000
+      internalID: 4702614646425198293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 595
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eac1b913cebc0b0800000000000000
+      internalID: -5707208404962070993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 629
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e41bc44ba33c890800000000000000
+      internalID: -7439037613430714758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 595
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6acdd9ffecba3fc0800000000000000
+      internalID: -3514288820333983125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 497
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec06b2c6c8422200800000000000000
+      internalID: 153765355791453421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 497
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed225fa07c4323f60800000000000000
+      internalID: 8012524716532507358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 497
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32c327c68ffcd860800000000000000
+      internalID: 7556195229152559677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 497
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef307cd9eb03d6970800000000000000
+      internalID: 8749703246299726846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 497
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3087b2fb8ff73aa80800000000000000
+      internalID: -8456774968935745533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_20
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 464
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb5ff64c6df2e830800000000000000
+      internalID: 4099117252350008242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 464
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca1c20e34ffe4cc0800000000000000
+      internalID: -3724759174799942963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 403
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d818dfe28357e0800000000000000
+      internalID: -1777933461246913058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 474
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dfe27fc24269b40800000000000000
+      internalID: 5446580574895406441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a5f7dd4d320e80800000000000000
+      internalID: -8213935365825388436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 474
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028b4c41886c9db0800000000000000
+      internalID: -4783833799634222590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 476
+        width: 82
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0390d57e186c249c0800000000000000
+      internalID: -3944372062388418256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 384
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075d3a32b57c28b70800000000000000
+      internalID: 8899895007891412336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 468
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c87b96200a14df0800000000000000
+      internalID: -197700976403575755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 468
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bec7ca4a6fb1ea0800000000000000
+      internalID: -5900851699609965757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 442
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cdaf622ad1b5880800000000000000
+      internalID: -8621264479394800610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 436
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde27633086ef03f0800000000000000
+      internalID: -932273159549800740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 384
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedd3737aa82d74e0800000000000000
+      internalID: -1982383548426625556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 442
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f52f3667c6bca10800000000000000
+      internalID: 1930756120997158738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 436
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb6a5cd5e4cc8ad0800000000000000
+      internalID: -2698565585178301475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_35
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969965af8c9de4be0800000000000000
+      internalID: -1491014969396389527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16be3119c1249eb0800000000000000
+      internalID: -4714105762488601060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_37
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 426
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4c2e1dcbd065b0800000000000000
+      internalID: -5377056281059374559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 417
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c229a85f3700029a0800000000000000
+      internalID: -6260002984004251092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 410
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cd735aa98b89ea0800000000000000
+      internalID: -5865735540313695170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 384
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d12d4a836c4e23f0800000000000000
+      internalID: -923716883158588974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 410
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e593e7eec498b200800000000000000
+      internalID: 196070200165242341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8fe78b5786ead30800000000000000
+      internalID: 4444604737077049504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a7377c848e4d9c0800000000000000
+      internalID: -3903239577741854182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_44
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 384
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1152f6245625365b0800000000000000
+      internalID: -5376362935290485487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 384
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6efd0bcd456715a0800000000000000
+      internalID: -6550655748193517972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 384
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69acdff4a7fe98450800000000000000
+      internalID: 6091663279602387606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 384
+        width: 133
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d506743996a1c9c0800000000000000
+      internalID: -3908659824640522791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_48
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 409
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5778b41af9746fb0800000000000000
+      internalID: -4655461999797831845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_49
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 413
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af20b188c2e93ddd0800000000000000
+      internalID: -2462450657142308102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_50
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 406
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aa2d155a7109fe0800000000000000
+      internalID: -1184420703188637134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_51
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 410
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1adb1bf2f805130800000000000000
+      internalID: 3553497541003551176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 384
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537941060cdd64390800000000000000
+      internalID: -7834330683448977611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 404
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72a0147a5e0a45a0800000000000000
+      internalID: -6536396127517760897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 404
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040ff3b78ccdfd1d0800000000000000
+      internalID: -3323695246356778944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_55
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 384
+        width: 76
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7a4d7b2c813ee50800000000000000
+      internalID: 6837335883865434090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_56
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 384
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0171a8ab547058660800000000000000
+      internalID: 7387318759834916624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_57
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 384
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe83f39784120b0800000000000000
+      internalID: -5755239163213844677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 344
+        width: 514
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75debb7d9869a9fe0800000000000000
+      internalID: -1181466433457230505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 384
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1080c9d5f73e069f0800000000000000
+      internalID: -477131424330414079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_60
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 334
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2379178e766c0920800000000000000
+      internalID: 2957851748894077743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_61
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 334
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee74bd1c3b937d10800000000000000
+      internalID: 2122210531920346861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_62
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 334
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccbce5347ff3cbb0800000000000000
+      internalID: -4916805493572453178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_63
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 334
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc55c7c623ff48e0800000000000000
+      internalID: -1706878385864221503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_64
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 334
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a48b8e37a800220800000000000000
+      internalID: 2450110427719813772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_65
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 334
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee01fed709533b0800000000000000
+      internalID: -5533357696598610232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 514
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf8384cbc4141d0800000000000000
+      internalID: -3368326674747163626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 514
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bbafc45ee1e79a0800000000000000
+      internalID: -6233510864046343308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_68
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 241
+        width: 514
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a643c41ad4b90ce0800000000000000
+      internalID: -1438419757223950681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 514
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613df6a09509b9b0800000000000000
+      internalID: -5064010187166371482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 514
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5736d96aca7140800000000000000
+      internalID: 4718306115538345229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_71
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 156
+        width: 514
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1397184fb9510c270800000000000000
+      internalID: 8268632675418470705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_72
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 113
+        width: 514
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eb32f35a2876060800000000000000
+      internalID: 6946664596482801310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_73
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 55
+        width: 514
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932cd4d3c06f11c0800000000000000
+      internalID: -4530796305905343590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 514
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f021c8b9bfb21b3e0800000000000000
+      internalID: -2039800796575690225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green hill bc_75
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2
+        width: 514
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd9454b227599f0800000000000000
+      internalID: -462337856563978462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      green hill bc_0: 5337609659202457558
+      green hill bc_1: -5279134503279120013
+      green hill bc_10: -5398900988342932738
+      green hill bc_11: 4702614646425198293
+      green hill bc_12: -5707208404962070993
+      green hill bc_13: -7439037613430714758
+      green hill bc_14: -3514288820333983125
+      green hill bc_15: 153765355791453421
+      green hill bc_16: 8012524716532507358
+      green hill bc_17: 7556195229152559677
+      green hill bc_18: 8749703246299726846
+      green hill bc_19: -8456774968935745533
+      green hill bc_2: -8460440229237283300
+      green hill bc_20: 4099117252350008242
+      green hill bc_21: -3724759174799942963
+      green hill bc_22: -1777933461246913058
+      green hill bc_23: 5446580574895406441
+      green hill bc_24: -8213935365825388436
+      green hill bc_25: -4783833799634222590
+      green hill bc_26: -3944372062388418256
+      green hill bc_27: 8899895007891412336
+      green hill bc_28: -197700976403575755
+      green hill bc_29: -5900851699609965757
+      green hill bc_3: 5581136243423973278
+      green hill bc_30: -8621264479394800610
+      green hill bc_31: -932273159549800740
+      green hill bc_32: -1982383548426625556
+      green hill bc_33: 1930756120997158738
+      green hill bc_34: -2698565585178301475
+      green hill bc_35: -1491014969396389527
+      green hill bc_36: -4714105762488601060
+      green hill bc_37: -5377056281059374559
+      green hill bc_38: -6260002984004251092
+      green hill bc_39: -5865735540313695170
+      green hill bc_4: 1509590324537173632
+      green hill bc_40: -923716883158588974
+      green hill bc_41: 196070200165242341
+      green hill bc_42: 4444604737077049504
+      green hill bc_43: -3903239577741854182
+      green hill bc_44: -5376362935290485487
+      green hill bc_45: -6550655748193517972
+      green hill bc_46: 6091663279602387606
+      green hill bc_47: -3908659824640522791
+      green hill bc_48: -4655461999797831845
+      green hill bc_49: -2462450657142308102
+      green hill bc_5: 3543304074128936074
+      green hill bc_50: -1184420703188637134
+      green hill bc_51: 3553497541003551176
+      green hill bc_52: -7834330683448977611
+      green hill bc_53: -6536396127517760897
+      green hill bc_54: -3323695246356778944
+      green hill bc_55: 6837335883865434090
+      green hill bc_56: 7387318759834916624
+      green hill bc_57: -5755239163213844677
+      green hill bc_58: -1181466433457230505
+      green hill bc_59: -477131424330414079
+      green hill bc_6: -8089219073054079601
+      green hill bc_60: 2957851748894077743
+      green hill bc_61: 2122210531920346861
+      green hill bc_62: -4916805493572453178
+      green hill bc_63: -1706878385864221503
+      green hill bc_64: 2450110427719813772
+      green hill bc_65: -5533357696598610232
+      green hill bc_66: -3368326674747163626
+      green hill bc_67: -6233510864046343308
+      green hill bc_68: -1438419757223950681
+      green hill bc_69: -5064010187166371482
+      green hill bc_7: -8443147490740467910
+      green hill bc_70: 4718306115538345229
+      green hill bc_71: 8268632675418470705
+      green hill bc_72: 6946664596482801310
+      green hill bc_73: -4530796305905343590
+      green hill bc_74: -2039800796575690225
+      green hill bc_75: -462337856563978462
+      green hill bc_8: 7694223953216384824
+      green hill bc_9: 8363418105523272070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
