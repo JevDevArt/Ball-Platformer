@@ -2,12 +2,12 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5.0f;
-    public float jumpForce = 10f;
+    public float moveSpeed = 500f;
+    public float jumpForce = 100f;
     private Rigidbody2D rb;
     private bool isGrounded;
     
-    private void Start ()
+    private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
     }
@@ -15,6 +15,6 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         float movex = Input.GetAxis("Horizontal");
-        rb.linearVelocity = new Vector2 (movex*moveSpeed,0f);
+        rb.linearVelocity = new Vector2 (movex*moveSpeed,-10f);
     }
 }
